@@ -32,6 +32,7 @@ sudo apt install openjdk-11-jre
 
 Verify Java is Installed
 hiii all how are you
+kkk
 deployed sucessfully
 
 
