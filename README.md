@@ -32,6 +32,9 @@ sudo apt install openjdk-11-jre
 
 Verify Java is Installed
 
+
+hii all how are you
+
 ```
 java -version
 ```
